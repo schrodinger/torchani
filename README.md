@@ -1,38 +1,3 @@
-# <img src=https://raw.githubusercontent.com/aiqm/torchani/master/logo1.png width=180/>  Accurate Neural Network Potential on PyTorch
-
-Metrics:
-
-![PyPI](https://img.shields.io/pypi/v/torchani.svg)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/torchani.svg)
-
-Checks:
-
-[![CodeFactor](https://www.codefactor.io/repository/github/aiqm/torchani/badge/master)](https://www.codefactor.io/repository/github/aiqm/torchani/overview/master)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/aiqm/torchani.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/aiqm/torchani/alerts/)
-[![Actions Status](https://github.com/aiqm/torchani/workflows/flake8/badge.svg)](https://github.com/aiqm/torchani/actions)
-[![Actions Status](https://github.com/aiqm/torchani/workflows/clang-format/badge.svg)](https://github.com/aiqm/torchani/actions)
-[![Actions Status](https://github.com/aiqm/torchani/workflows/mypy/badge.svg)](https://github.com/aiqm/torchani/actions)
-[![Actions Status](https://github.com/aiqm/torchani/workflows/unittests/badge.svg)](https://github.com/aiqm/torchani/actions)
-[![Actions Status](https://github.com/aiqm/torchani/workflows/cuda/badge.svg)](https://github.com/aiqm/torchani/actions)
-[![Actions Status](https://github.com/aiqm/torchani/workflows/docs/badge.svg)](https://github.com/aiqm/torchani/actions)
-[![Actions Status](https://github.com/aiqm/torchani/workflows/runnable-submodules/badge.svg)](https://github.com/aiqm/torchani/actions)
-[![Actions Status](https://github.com/aiqm/torchani/workflows/tools/badge.svg)](https://github.com/aiqm/torchani/actions)
-
-Deploy:
-
-[![Actions Status](https://github.com/aiqm/torchani/workflows/deploy-docs/badge.svg)](https://github.com/aiqm/torchani/actions)
-[![Actions Status](https://github.com/aiqm/torchani/workflows/deploy-pypi/badge.svg)](https://github.com/aiqm/torchani/actions)
-
-We only provide compatibility with nightly PyTorch, but you can check if stable PyTorch happens to be supported by looking at the following badge:
-
-[![Actions Status](https://github.com/aiqm/torchani/workflows/stable-torch/badge.svg)](https://github.com/aiqm/torchani/actions)
-
-
-TorchANI is a pytorch implementation of ANI. It is currently under alpha release, which means, the API is not stable yet. If you find a bug of TorchANI, or have some feature request, feel free to open an issue on GitHub, or send us a pull request.
-
-<img src=https://raw.githubusercontent.com/aiqm/torchani/master/logo2.png width=500/>
-
-
 # Install
 
 TorchANI requires the latest preview version of PyTorch. Please install PyTorch before installing TorchANI.
